@@ -26,7 +26,7 @@ As this project is archived, any existing issues have also been closed. You can 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Please review the license file for more information.
+This project is licensed under the [MIT License](LICENSE).Please review the license file for more information.
 
 ## Contact
 
